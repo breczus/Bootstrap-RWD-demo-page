@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog as clone Tinder app
